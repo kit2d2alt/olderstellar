@@ -21,7 +21,7 @@ One of the most popular web proxies, used by over 5.7 million people in 2023.
     <li>Built in Password Protection</li>
     <li>Geforce Now Support</li>
 </ul>
-<h2 align="center">Downsidesh2>
+<h2 align="center">Downsides<h2>
 <ul>
     <li>No icons for apps, games, etc. too lazy to add them</li>
     <li>Websites that have Cloudfare/DNS protection don't work</li>
