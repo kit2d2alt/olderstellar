@@ -25,7 +25,7 @@ One of the most popular web proxies, used by over 5.7 million people in 2023.
 <ul>
     <li>No icons for apps, games, etc. too lazy to add them</li>
     <li>Websites that have Cloudfare/DNS protection don't work</li>
-
+</ul>
 <h2 align="center">Deployment</h2>
 
 ### Easy Deployment
